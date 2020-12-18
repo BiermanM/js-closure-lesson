@@ -1,15 +1,15 @@
 # Lesson Introduction
 
 ## Why Learn About Closures?
-Closures are a very important piece in the puzzle we're learning that is JavaScript. Last week, we explored variables and functions that allow us to perform calculations on an input and then produce an output. This can seem fairly straightforward with a few functions and variables, but when building an entire web application, there will be a lot of functions and variables to keep track of. More importantly, you want to make sure specific variables can only be accessed by certain functions, because it may otherwise lead to some unexpected results. That is what's known as a *logic error*, where your code runs without errors but it doesn't return a result you expect (and because of that, it can be very difficult to track down).
+Closures are a very important piece of the puzzle we're learning that is JavaScript. Last week, we explored variables and functions that allow us to perform calculations on an input and then produce an output. This can seem fairly straightforward with a few functions and variables, but when building an entire web application, there will be a lot of functions and variables to keep track of. More importantly, you want to make sure specific variables can only be accessed by certain functions, because it may otherwise lead to some unexpected results. That is what's known as a *logic error*, where your code runs without errors but it doesn't produce the result you expect (and because of that, it can be very difficult to track down the problem).
 
-Closures can be thought of as a form of data privacy. Let's say we're making a web application for a bank, where users can log in a deposit or withdraw money from their bank account. Closures help us make sure a given user has access to only their account information, so they can't withdraw money from someone else's account.
+Closures can be thought of as a form of data privacy. Let's say we're making a web application for a bank, where users can log in and deposit or withdraw money from their bank account. Closures, for example, help us make sure a given user has access to only their account information, so they can't withdraw money from someone else's account.
 
 ## Bonus Material
 Interested in learning more about closures and why they're useful? Check out these articles:
 * https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 * For the visual learners: https://miro.medium.com/max/1400/1*NamyWBedolrH4-N3iwUMfw.png
-* This one explains it through a real-life example: https://www.freecodecamp.org/news/javascript-closures/
+* This one explains it through a cool real-life example: https://www.freecodecamp.org/news/javascript-closures/
 
 ## Lesson Structure
 Total expected time: 1 hour 20 minutes
