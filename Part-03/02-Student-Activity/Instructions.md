@@ -8,4 +8,4 @@ Our team is developing a puzzle game we want to create a function that keeps tra
 4. Decide where to call the existing `doubleClick` and `rightClick` functions within `clickButton` function. Be careful, the placement will affect how the clicks are counted.
 5. To check your work, the code will print out `Number of button clicks: 1` if you did it correctly.
 
-Note: You can run the file while in this directory using the following command in Command Prompt or Terminal: `npm Unsolved.js`
+Note: You can run the file while in this directory using the following command in Command Prompt or Terminal: `node Unsolved.js`
